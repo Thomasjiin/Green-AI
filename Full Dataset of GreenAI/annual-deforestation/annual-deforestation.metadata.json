@@ -1,0 +1,27 @@
+{
+  "chart": {
+    "title": "Annual deforestation",
+    "note": "The UN FAO publish forest data as the annual average on 10- or 5-year timescales. The following year allocation applies: \"1990\" is the annual average from 1990 to 2000; \"2000\" for 2000 to 2010; \"2010\" for 2010 to 2015; and \"2015\" for 2015 to 2020.",
+    "citation": "UN Food and Agriculture Organization (FAO). Forest Resources Assessment.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/annual-deforestation?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Deforestation": {
+      "titleShort": "Annual deforestation rate",
+      "titleLong": "Annual deforestation rate",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000,
+      "owidVariableId": 145179,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Annual deforestation rate” [dataset]. UN Food and Agriculture Organization (FAO). Forest Resources Assessment. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145179.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-03",
+  "activeFilters": {}
+}

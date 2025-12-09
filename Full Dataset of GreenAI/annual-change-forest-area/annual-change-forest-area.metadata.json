@@ -1,0 +1,28 @@
+{
+  "chart": {
+    "title": "Annual change in forest area",
+    "subtitle": "Net change in forest area measures forest expansion (either through afforestation or natural expansion) minus deforestation",
+    "note": "The UN FAO publish forest data as the annual average on 10- or 5-year timescales.",
+    "citation": "UN Food and Agriculture Organization (FAO). Forest Resources Assessment.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/annual-change-forest-area?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Brazil"
+    ]
+  },
+  "columns": {
+    "Annual net change in forest area": {
+      "titleShort": "Annual change in forest area",
+      "titleLong": "Annual change in forest area",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000,
+      "owidVariableId": 145185,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Annual change in forest area” [dataset]. UN Food and Agriculture Organization (FAO). Forest Resources Assessment. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145185.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-03",
+  "activeFilters": {}
+}

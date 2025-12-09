@@ -1,0 +1,42 @@
+{
+  "chart": {
+    "title": "Per capita CO₂ emissions from deforestation for food production",
+    "subtitle": "Tonnes of CO₂ emissions per person linked to deforestation for food production – it is trade-adjusted, to reflect the carbon footprint of diets within a given country. Based on the annual average over the period from 2010 to 2014.",
+    "citation": "Pendrill et al. (2019)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/per-capita-co2-food-deforestation?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "South Africa",
+      "Brazil",
+      "United States",
+      "Germany",
+      "China",
+      "France",
+      "India",
+      "Indonesia",
+      "Spain",
+      "Switzerland",
+      "Sweden",
+      "Japan",
+      "Luxembourg",
+      "Taiwan",
+      "Belgium",
+      "Netherlands"
+    ]
+  },
+  "columns": {
+    "per_capita_embodied_emissions": {
+      "titleShort": "Per capita CO₂ emissions from deforestation for food production",
+      "titleLong": "Per capita CO₂ emissions from deforestation for food production",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 145413,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Per capita CO₂ emissions from deforestation for food production” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145413.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-03",
+  "activeFilters": {}
+}

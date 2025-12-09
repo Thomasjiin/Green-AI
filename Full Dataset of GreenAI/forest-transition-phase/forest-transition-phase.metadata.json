@@ -1,0 +1,26 @@
+{
+  "chart": {
+    "title": "Forest transition phase",
+    "subtitle": "Countries are grouped into four forest transition phases which tend to represent a sequence of development.\n(1) Pre-transition: high forest cover and low deforestation rates;\n(2) Early-transition: forests lost at an increasingly rapid rate;\n(3) Late-transition: small fraction of remaining forest but slowing of deforestation;\n(4) Post-transition: forest cover increases through reforestation.",
+    "citation": "Pendrill, F., Persson, U. M., Godar, J., & Kastner, T. (2019). Deforestation displaced: trade in forest-risk commodities and the prospects for a global forest transition. Environmental Research Letters, 14(5), 055003.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/forest-transition-phase?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Bolivia"
+    ]
+  },
+  "columns": {
+    "Forest Transition Phase": {
+      "titleShort": "Forest Transition Phase",
+      "titleLong": "Forest Transition Phase",
+      "unit": "",
+      "timespan": "",
+      "type": "String",
+      "owidVariableId": 145340,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Forest Transition Phase” [dataset]. Forest Transition Phase (Pendrill et al. 2019) [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145340.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-03",
+  "activeFilters": {}
+}

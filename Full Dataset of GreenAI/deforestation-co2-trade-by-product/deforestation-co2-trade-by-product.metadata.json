@@ -1,0 +1,136 @@
+{
+  "chart": {
+    "title": "Annual CO₂ emissions from deforestation by product",
+    "subtitle": "This measures the amount of CO₂ emissions linked to deforestation for food production – it is trade-adjusted, to reflect the carbon footprint of diets within a given country. It is based on the annual average over the period from 2010 to 2014.",
+    "note": "Trade adjustment means that deforestation linked to the production of imported food products is added to a country's total; exported emissions are subtracted from its total.",
+    "citation": "Pendrill et al. (2019)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/deforestation-co2-trade-by-product?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Brazil"
+    ]
+  },
+  "columns": {
+    "cattle_meat": {
+      "titleShort": "Beef",
+      "titleLong": "Beef",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145401,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Beef” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145401.metadata.json"
+    },
+    "oilseed_products": {
+      "titleShort": "Oilseed products",
+      "titleLong": "Oilseed products",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145409,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Oilseed products” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145409.metadata.json"
+    },
+    "other_crops": {
+      "titleShort": "Other crops",
+      "titleLong": "Other crops",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145411,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Other crops” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145411.metadata.json"
+    },
+    "rice": {
+      "titleShort": "Rice",
+      "titleLong": "Rice",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145415,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Rice” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145415.metadata.json"
+    },
+    "veg_fruits_nuts": {
+      "titleShort": "Vegetables, fruits, nuts",
+      "titleLong": "Vegetables, fruits, nuts",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145421,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Vegetables, fruits, nuts” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145421.metadata.json"
+    },
+    "wheat": {
+      "titleShort": "Wheat",
+      "titleLong": "Wheat",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145422,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Wheat” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145422.metadata.json"
+    },
+    "sugar": {
+      "titleShort": "Sugar",
+      "titleLong": "Sugar",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145418,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Sugar” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145418.metadata.json"
+    },
+    "plant_fibres": {
+      "titleShort": "Plant fibers",
+      "titleLong": "Plant fibers",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145414,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Plant fibers” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145414.metadata.json"
+    },
+    "other_meat_products": {
+      "titleShort": "Other meat products",
+      "titleLong": "Other meat products",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 1000000,
+      "owidVariableId": 145412,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Other meat products” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145412.metadata.json"
+    },
+    "other_cereals": {
+      "titleShort": "Other cereals",
+      "titleLong": "Other cereals",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "conversionFactor": 100000,
+      "owidVariableId": 145410,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Other cereals” [dataset]. Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/145410.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-03",
+  "activeFilters": {}
+}
